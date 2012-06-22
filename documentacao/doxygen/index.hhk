@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#bf85ae001ddfd84d51dd47c1c5564dea"><param name="Name" value="bgcatch_SIGCHLD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#77686bd29527f70c506c2e6c6cb54423"><param name="Name" value="bgcatch_SIGCONT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#9f03919ff961cbb16c296adcdaccfa37"><param name="Name" value="bgcatch_SIGINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#f535270b831ac8c77b70ffd16e9841a9"><param name="Name" value="bgcatch_SIGTSTP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#d2e4b2c5c55ecadbec6048c06f673b88"><param name="Name" value="bgrunning"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#fe78d3458db82e55e69546ade66eb21a"><param name="Name" value="bgstopped"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="BUFFER_SIZE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#a98231419341c90f98d8db8010cf6828"><param name="Name" value="catch_SIGCHLD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#b2f590fbd37c3d9f73c3f769559914a7"><param name="Name" value="catch_SIGCONT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#f66e0083351aa48bd4ff6784e4399263"><param name="Name" value="catch_SIGINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#c722250ab1a8e36f9ce6c7feb0ff9794"><param name="Name" value="catch_SIGTSTP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#6a3aad09cfe20912a7599fe399e42c73"><param name="Name" value="check_pipe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#6a3aad09cfe20912a7599fe399e42c73"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#6a3aad09cfe20912a7599fe399e42c73"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#0acae107fdfe57b7fc17fcd48490b7ee"><param name="Name" value="check_redirect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#0acae107fdfe57b7fc17fcd48490b7ee"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#0acae107fdfe57b7fc17fcd48490b7ee"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#01aeb2e6a20be9caaaf1a5a854f47d70"><param name="Name" value="cleanstring"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#01aeb2e6a20be9caaaf1a5a854f47d70"><param name="Name" value="str_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#01aeb2e6a20be9caaaf1a5a854f47d70"><param name="Name" value="str_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294576686840fe1e4c1d777631a09479912"><param name="Name" value="COMM_BG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294f97312e5791bf8aa95e0819925989517"><param name="Name" value="COMM_CD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b929466d3d35eae4f29edc26577b65ae4b71d"><param name="Name" value="COMM_DIRNOTFOUND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92944a81f9df06f1e648593f415eba9eb1d0"><param name="Name" value="COMM_EXIT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294d3517956d284f9be3542f893d3fff826"><param name="Name" value="COMM_EXTERNAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92940ce83c43084db1d3b47598ee40d2dcc0"><param name="Name" value="COMM_FG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92945e697975c011db306f53040fb14cecff"><param name="Name" value="COMM_HELP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92947f7a4f226d6740eb0e2c8a0002087f43"><param name="Name" value="COMM_JOBS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294c388f94a97dc036f0bddb560a45a807a"><param name="Name" value="COMM_NOP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294a7449951748fe0dc3fe38cb586da9401"><param name="Name" value="COMM_NOTFOUND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b929445cb2e60c900d80282b65090f35d81b0"><param name="Name" value="COMM_PWD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294"><param name="Name" value="command_code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#b921b1edbfb5c7b71ef3a864eaddbbc2"><param name="Name" value="direxists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#b921b1edbfb5c7b71ef3a864eaddbbc2"><param name="Name" value="path_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#b921b1edbfb5c7b71ef3a864eaddbbc2"><param name="Name" value="path_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9960df6a0517b6ba36d07de1d48239a7"><param name="Name" value="exec_bin"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9960df6a0517b6ba36d07de1d48239a7"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#9960df6a0517b6ba36d07de1d48239a7"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html"><param name="Name" value="executioner.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#a98231419341c90f98d8db8010cf6828"><param name="Name" value="catch_SIGCHLD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#b2f590fbd37c3d9f73c3f769559914a7"><param name="Name" value="catch_SIGCONT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#f66e0083351aa48bd4ff6784e4399263"><param name="Name" value="catch_SIGINT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#c722250ab1a8e36f9ce6c7feb0ff9794"><param name="Name" value="catch_SIGTSTP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#6a3aad09cfe20912a7599fe399e42c73"><param name="Name" value="check_pipe"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#0acae107fdfe57b7fc17fcd48490b7ee"><param name="Name" value="check_redirect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9960df6a0517b6ba36d07de1d48239a7"><param name="Name" value="exec_bin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#c83aeb1660c84d456dbf9e472f86f270"><param name="Name" value="executioner"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7329174bce5556b0f093831986c6964f"><param name="Name" value="fgstoped"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#6dd6402434468f3c4766cd1085f932c7"><param name="Name" value="fpin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#03177be8c621e3f4448a705209c45b95"><param name="Name" value="fpout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#85056b4cfceee20151fc25df59e58b67"><param name="Name" value="mario"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#3831f33b4e892046d754c6d5e481c1f1"><param name="Name" value="pos"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7693c246c2179f000c04ee9900c116f8"><param name="Name" value="pos_in"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9a54c1056644f9d6810f052d7a527858"><param name="Name" value="print_curr_path"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#853216ac51aa181669ff4d3de74058a7"><param name="Name" value="print_help"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7ad81f4c5604706ac7c06ee3980aed65"><param name="Name" value="redir_in"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ff5ae056ee581052271880a63930610a"><param name="Name" value="redir_out"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#25d4cf462ebbf9061680c4405a4ff7d5"><param name="Name" value="redirected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ecc2e54ee4dac220986bbbb80d060b12"><param name="Name" value="separate_commands"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ee58c28a1db31d1d1a21f12abb76197a"><param name="Name" value="user_info"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html"><param name="Name" value="executioner.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#6a3aad09cfe20912a7599fe399e42c73"><param name="Name" value="check_pipe"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#0acae107fdfe57b7fc17fcd48490b7ee"><param name="Name" value="check_redirect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#9960df6a0517b6ba36d07de1d48239a7"><param name="Name" value="exec_bin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#c83aeb1660c84d456dbf9e472f86f270"><param name="Name" value="executioner"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#9a54c1056644f9d6810f052d7a527858"><param name="Name" value="print_curr_path"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#853216ac51aa181669ff4d3de74058a7"><param name="Name" value="print_help"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#25d4cf462ebbf9061680c4405a4ff7d5"><param name="Name" value="redirected"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#c83aeb1660c84d456dbf9e472f86f270"><param name="Name" value="executioner"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#c83aeb1660c84d456dbf9e472f86f270"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#c83aeb1660c84d456dbf9e472f86f270"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#36d65170058f942b3145d6031dd57aae"><param name="Name" value="EXIT_IF_I_MUST"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7329174bce5556b0f093831986c6964f"><param name="Name" value="fgstoped"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#1ccd9e8ff5809bbfb3152e6cda0608cb"><param name="Name" value="fileexists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#1ccd9e8ff5809bbfb3152e6cda0608cb"><param name="Name" value="path_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#1ccd9e8ff5809bbfb3152e6cda0608cb"><param name="Name" value="path_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c4f9d6463e64f82ac7b99ced20c7e1a3"><param name="Name" value="find_process"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#6dd6402434468f3c4766cd1085f932c7"><param name="Name" value="fpin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#03177be8c621e3f4448a705209c45b95"><param name="Name" value="fpout"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#d5cde7549aae3e0f115f41ad979f091d"><param name="Name" value="getfile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#d5cde7549aae3e0f115f41ad979f091d"><param name="Name" value="path_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#d5cde7549aae3e0f115f41ad979f091d"><param name="Name" value="path_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#18997456a2759efcd842c1d509f711dc"><param name="Name" value="getpath"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#18997456a2759efcd842c1d509f711dc"><param name="Name" value="path_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#18997456a2759efcd842c1d509f711dc"><param name="Name" value="path_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c5b0f8b25efce8704290a45b4037ad4f"><param name="Name" value="init_list"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#1a0a44accd5c7a99fcc354b9f2dd151c"><param name="Name" value="inner_parser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#2f1a18292c80b1f45a3712985b3dc38a"><param name="Name" value="insert_process"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#d61b7ce2733940f29bb9e267a467a718"><param name="Name" value="jobs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocesses.html#b42b5d55b86a70d0216aa200bdbf83e7"><param name="Name" value="list"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#bf85ae001ddfd84d51dd47c1c5564dea"><param name="Name" value="bgcatch_SIGCHLD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#77686bd29527f70c506c2e6c6cb54423"><param name="Name" value="bgcatch_SIGCONT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#9f03919ff961cbb16c296adcdaccfa37"><param name="Name" value="bgcatch_SIGINT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#f535270b831ac8c77b70ffd16e9841a9"><param name="Name" value="bgcatch_SIGTSTP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#d2e4b2c5c55ecadbec6048c06f673b88"><param name="Name" value="bgrunning"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#fe78d3458db82e55e69546ade66eb21a"><param name="Name" value="bgstopped"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#36d65170058f942b3145d6031dd57aae"><param name="Name" value="EXIT_IF_I_MUST"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c4f9d6463e64f82ac7b99ced20c7e1a3"><param name="Name" value="find_process"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c5b0f8b25efce8704290a45b4037ad4f"><param name="Name" value="init_list"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#1a0a44accd5c7a99fcc354b9f2dd151c"><param name="Name" value="inner_parser"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#2f1a18292c80b1f45a3712985b3dc38a"><param name="Name" value="insert_process"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#d61b7ce2733940f29bb9e267a467a718"><param name="Name" value="jobs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#47f2e62c0dbebc787052c165afcada0e"><param name="Name" value="NAME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#8487a461cc92b851d6d9b9725c43f9d7"><param name="Name" value="parse_command"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b67f4cfa358787f8f72a40640e37c3bd"><param name="Name" value="procs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ae37f480399c37fbf2ba828e1b0d6efc"><param name="Name" value="remove_process"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ee58c28a1db31d1d1a21f12abb76197a"><param name="Name" value="user_info"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="test__laco_8c.html#e66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="test_laco.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="test__output_8c.html#3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="test_output.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="test__utilslib_8c.html#bf9e6b7e6f15df4b525a2e7705ba3089"><param name="Name" value="test_utilslib.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#85056b4cfceee20151fc25df59e58b67"><param name="Name" value="mario"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#392fb874e547e582e9c66a08a1f23326"><param name="Name" value="MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#220f38b26fa99d4d91b574f42d991516"><param name="Name" value="MAX_STRING_SIZE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#47f2e62c0dbebc787052c165afcada0e"><param name="Name" value="NAME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#593a2f0a5b74f1e20674f7362701683e"><param name="Name" value="name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#def3034178d2e2de064a8709350e8f01"><param name="Name" value="NUM_COMMANDS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#8487a461cc92b851d6d9b9725c43f9d7"><param name="Name" value="parse_command"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html"><param name="Name" value="path_utils.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#b921b1edbfb5c7b71ef3a864eaddbbc2"><param name="Name" value="direxists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#1ccd9e8ff5809bbfb3152e6cda0608cb"><param name="Name" value="fileexists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#d5cde7549aae3e0f115f41ad979f091d"><param name="Name" value="getfile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8c.html#18997456a2759efcd842c1d509f711dc"><param name="Name" value="getpath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html"><param name="Name" value="path_utils.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#b921b1edbfb5c7b71ef3a864eaddbbc2"><param name="Name" value="direxists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#1ccd9e8ff5809bbfb3152e6cda0608cb"><param name="Name" value="fileexists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#d5cde7549aae3e0f115f41ad979f091d"><param name="Name" value="getfile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="path__utils_8h.html#18997456a2759efcd842c1d509f711dc"><param name="Name" value="getpath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#5d1b4e17490bc7c31d2c5b5dffd81b45"><param name="Name" value="pid"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#3831f33b4e892046d754c6d5e481c1f1"><param name="Name" value="pos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7693c246c2179f000c04ee9900c116f8"><param name="Name" value="pos_in"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9a54c1056644f9d6810f052d7a527858"><param name="Name" value="print_curr_path"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#9a54c1056644f9d6810f052d7a527858"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#9a54c1056644f9d6810f052d7a527858"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#853216ac51aa181669ff4d3de74058a7"><param name="Name" value="print_help"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#853216ac51aa181669ff4d3de74058a7"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#853216ac51aa181669ff4d3de74058a7"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html"><param name="Name" value="process"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#593a2f0a5b74f1e20674f7362701683e"><param name="Name" value="name"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#5d1b4e17490bc7c31d2c5b5dffd81b45"><param name="Name" value="pid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#82aa31a61dad8cd02bf1057f15580409"><param name="Name" value="status"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocesses.html"><param name="Name" value="processes"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocesses.html#b42b5d55b86a70d0216aa200bdbf83e7"><param name="Name" value="list"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocesses.html#4317866003578bc53c192295f29bc45b"><param name="Name" value="size"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b67f4cfa358787f8f72a40640e37c3bd"><param name="Name" value="procs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#469e685b5f725066d8b8dffda137f012"><param name="Name" value="readline"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#469e685b5f725066d8b8dffda137f012"><param name="Name" value="str_utils.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#469e685b5f725066d8b8dffda137f012"><param name="Name" value="str_utils.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#7ad81f4c5604706ac7c06ee3980aed65"><param name="Name" value="redir_in"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ff5ae056ee581052271880a63930610a"><param name="Name" value="redir_out"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#25d4cf462ebbf9061680c4405a4ff7d5"><param name="Name" value="redirected"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#25d4cf462ebbf9061680c4405a4ff7d5"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8h.html#25d4cf462ebbf9061680c4405a4ff7d5"><param name="Name" value="executioner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ae37f480399c37fbf2ba828e1b0d6efc"><param name="Name" value="remove_process"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#35f69a612b07bbf1de53bbbd8d877c09"><param name="Name" value="RUN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ecc2e54ee4dac220986bbbb80d060b12"><param name="Name" value="separate_commands"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocesses.html#4317866003578bc53c192295f29bc45b"><param name="Name" value="size"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structprocess.html#82aa31a61dad8cd02bf1057f15580409"><param name="Name" value="status"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a53c70691ce2dc3e8f47abd5c7cb0b9b"><param name="Name" value="STP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html"><param name="Name" value="str_utils.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#01aeb2e6a20be9caaaf1a5a854f47d70"><param name="Name" value="cleanstring"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8c.html#469e685b5f725066d8b8dffda137f012"><param name="Name" value="readline"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html"><param name="Name" value="str_utils.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#01aeb2e6a20be9caaaf1a5a854f47d70"><param name="Name" value="cleanstring"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#220f38b26fa99d4d91b574f42d991516"><param name="Name" value="MAX_STRING_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="str__utils_8h.html#469e685b5f725066d8b8dffda137f012"><param name="Name" value="readline"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="test__laco_8c.html"><param name="Name" value="test_laco.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="test__output_8c.html"><param name="Name" value="test_output.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="test__utilslib_8c.html"><param name="Name" value="test_utilslib.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#713bfbd91b466733ac98ebcd679e6ab6"><param name="Name" value="TOKENS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html"><param name="Name" value="types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#6b20d41d6252e9871430c242cb1a56e7"><param name="Name" value="BUFFER_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294576686840fe1e4c1d777631a09479912"><param name="Name" value="COMM_BG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294f97312e5791bf8aa95e0819925989517"><param name="Name" value="COMM_CD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b929466d3d35eae4f29edc26577b65ae4b71d"><param name="Name" value="COMM_DIRNOTFOUND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92944a81f9df06f1e648593f415eba9eb1d0"><param name="Name" value="COMM_EXIT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294d3517956d284f9be3542f893d3fff826"><param name="Name" value="COMM_EXTERNAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92940ce83c43084db1d3b47598ee40d2dcc0"><param name="Name" value="COMM_FG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92945e697975c011db306f53040fb14cecff"><param name="Name" value="COMM_HELP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b92947f7a4f226d6740eb0e2c8a0002087f43"><param name="Name" value="COMM_JOBS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294c388f94a97dc036f0bddb560a45a807a"><param name="Name" value="COMM_NOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294a7449951748fe0dc3fe38cb586da9401"><param name="Name" value="COMM_NOTFOUND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b929445cb2e60c900d80282b65090f35d81b0"><param name="Name" value="COMM_PWD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a716b3ec1d36e9e71a7b62b2af7b9294"><param name="Name" value="command_code"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#392fb874e547e582e9c66a08a1f23326"><param name="Name" value="MAX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#def3034178d2e2de064a8709350e8f01"><param name="Name" value="NUM_COMMANDS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#35f69a612b07bbf1de53bbbd8d877c09"><param name="Name" value="RUN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#a53c70691ce2dc3e8f47abd5c7cb0b9b"><param name="Name" value="STP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="types_8h.html#713bfbd91b466733ac98ebcd679e6ab6"><param name="Name" value="TOKENS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ee58c28a1db31d1d1a21f12abb76197a"><param name="Name" value="user_info"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="executioner_8c.html#ee58c28a1db31d1d1a21f12abb76197a"><param name="Name" value="executioner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ee58c28a1db31d1d1a21f12abb76197a"><param name="Name" value="main.c"></OBJECT>
+  </UL>
+</UL>

@@ -1,0 +1,80 @@
+===========================================
+CRASH: Course Rather Another SHell
+===========================================
+
+CRASH is a standard POSIX SHELL made as a college project in Operating Systems II.
+
+Developers
+---------------
+
+CRASH was developed by
+
+	NAME
+	Muller Roberto Pereira Goncalves
+	Paulo Rodrigues Alves Margarido
+	Pedro Paulo Balage Filho
+	Tiago Vieira da Silva
+	Vinicius Baggio Fuentes
+
+	
+Compiling and using
+---------------------
+
+To compile CRASH, you must:
+
+	% make
+
+To run:
+
+	% cd bin
+	% ./crash
+
+
+Technical information
+--------------------
+
+1) Project structure
+	
+	main.c -> Basic project setup. Parses the command and manages processes. It also contain signal handling for background processes.
+	executioner.c -> Implements Piping and forking for new processes background signal processing. 
+	executioner.h -> Function naming for executioner.c
+	types.h -> Data types
+
+
+2) Features
+
+- Forking processes and commands
+- Parsing shell commands
+- Shell builtin commands (pwd, cd, jobs, bg, fg, help, exit, quit)
+- Background processes, with async notification for process termination
+- Redirect STDIN and STDOUT
+- Piping!
+- Job control (jobs, ctrl+Z, ctrl+c)
+
+3) Project
+- Portuguese docs for most of the functions and commands
+- Makefile to compile
+- Doxygen to generate documentation
+
+4) Testing
+
+There are three programs to test CRASH. You can find them in the "teste" folder, and
+after compiling the project with make, those tests are also compiled and available in the /bin folder,
+along with CRASH's binary.
+
+	test_output -> Test parameter handling
+	test_utillib -> Test utility library
+	laco -> Tight loop to test background execution and multi process maangement.
+
+5) Docs
+
+All the source files in the /src folder are documented in portuguese. You can generate
+them using doxygem.
+
+	% cd documentacao
+	% doxygen
+	% cd doxygen
+	% open index.html
+
+
+PS: DON'T Ctrl-D!
